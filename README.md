@@ -1,6 +1,6 @@
 ## Hello, I'm Olan Yusuf
 
-I'm a versatile and self-driven Azure DevOps engineer with a proven track record in automating and optimizing mission-critical deployments across Azure, AWS, and GCP. My journey in the tech world began as a software developer, and today, I'm fully immersed in the role of an Azure Cloud DevOps engineer.
+I'm a versatile and self-driven Azure DevOps engineer with a proven track record in automating and optimizing mission-critical deployments across Azure, AWS, and GCP. My journey in the tech world began as a software developer, and today, I'm fully immersed in the role of a Cloud DevOps engineer.
 
 ### About Me
 
