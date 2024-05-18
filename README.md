@@ -20,7 +20,7 @@ I'm a versatile and self-driven Multi-Cloud DevOps engineer with a proven track 
 
 Let's connect and collaborate on exciting projects. Feel free to reach out for discussions, questions, or just to say hello!
 
-[LinkedIn](https://www.linkedin.com/in/olanrewaju-yusuf) | [Twitter](https://twitter.com/yourusername) | [Portfolio Website](https://www.yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/olanrewaju-yusuf) | [Twitter](https://twitter.com/) | [Portfolio Website](https://#)
 
 Happy coding! 🚀
 
